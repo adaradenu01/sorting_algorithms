@@ -486,4 +486,4 @@ alex@/tmp/sort$
 
  Done? Help Check your code Ask for a new correction QA Review
 
-[Done with the mandatory tasks? Unlock 9 advanced tasks now!](https://alx-intranet.hbtn.io/projects/248/unlock_optionals)
+[Done with the mandatory tasks? Unlock 9 advanced tasks now!](https://intranet.alxswe.com/projects/248#task-1326)
